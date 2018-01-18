@@ -112,7 +112,7 @@ spring.cloud.config.label:india
 ```
 This is the default behaviour for any application which has the Spring Cloud Config Client on the classpath. When a config client starts up it binds to the Config Server (via the bootstrap configuration property spring.cloud.config.uri) and initializes Spring Environment with remote property sources.
 
-The net result of this is that all client apps that want to consume the Config Server need a bootstrap.yml (or an environment variable) with the server address in spring.cloud.config.uri
+The net result of this is that all client apps that want to consume the Config Server need a bootstrap.properties (or an environment variable) with the server address in spring.cloud.config.uri
 
 ## Get the user details
 
