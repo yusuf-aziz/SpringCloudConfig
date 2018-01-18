@@ -43,14 +43,14 @@ db.userservice.insert({
 });
 
 db.userservice.insert({
-    "label" : "usa",
-    "profile" : "dev",
+    "label" : "india",
+    "profile" : "prod",
     "source" : {
         "user" : {
-            "name" : "Azba",
-            "city" : "SFO",
-            "language" : "English",
-            "state" : "California"
+            "name" : "Yusuf",
+            "city" : "Jaipur",
+            "language" : "Hindi",
+            "state" : "Rajasthan"
         }
     }
 });
