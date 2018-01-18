@@ -128,7 +128,7 @@ Language :English
 Name :Hiba
 ```
 
-Now, change the profile in the bootstrap.properties from dev to prod and you will get the different result
+Now, change the profile in the bootstrap.properties from **dev** to **prod** and you will get the different result
 ```
 City :Jaipur
 
